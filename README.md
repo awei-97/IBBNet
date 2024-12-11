@@ -1,10 +1,8 @@
-## IBBNet
+# IBBNet
 
 **Note:** The full implementation of this method will be uploaded after the complete publication of the related paper.
 
 **Acknowledgment:** This project builds upon the foundational code provided by [https://github.com/jiwoon-ahn/irn](https://github.com/jiwoon-ahn/irn).
-
-# Deep Learning Project
 
 ## Project Overview
 This is a deep learning-based project designed to tackle Weakly Supervised Semantic Segmentation (WSSS) tasks using weak labels such as image-level labels, point labels, bounding box labels, and scribble labels. The project focuses on image-level label-based WSSS, a common approach due to its simplicity and widespread use.
@@ -80,30 +78,6 @@ python infer.py --input input_data_path
 └── requirements.txt        # Dependency list
 ```
 
-## Contribution Guidelines
-
-If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-
-3. Commit your changes:
-
-   ```bash
-   git commit -m "Add new feature"
-   ```
-
-4. Push to the remote branch:
-
-   ```bash
-   git push origin feature/your-feature
-   ```
-
-5. Submit a Pull Request.
 
 ## Contact
 
